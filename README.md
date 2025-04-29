@@ -5,3 +5,4 @@ new
 ;;
 a
 commi
+w
