@@ -8,7 +8,7 @@ x
 s
 c
 x
-ц
+цw
 ыффыx
 d
 xxx
